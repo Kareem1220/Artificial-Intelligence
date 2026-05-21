@@ -1,0 +1,4 @@
+Model,Accuracy,Precision,Recall,F1-Score
+Naive Bayes,0.6826,0.7053,0.6826,0.6890
+Decision Tree,0.8258,0.8230,0.8258,0.8201
+Neural Network,0.9683,0.9683,0.9683,0.9680
